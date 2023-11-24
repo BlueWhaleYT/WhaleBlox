@@ -20,9 +20,8 @@ local GuiAnimationUtils = require(ReplicatedStorage.WhaleBlox.gui.GuiAnimationUt
 local customProperties = {
     -->> "WB" means provided by WhaleBlox, for not misunderstanding
     "WB_Alignment", "WB_XAlignment", "WB_YAlignment",
-    "WB_PaddingAll", "WB_PaddingLeft", "WB_PaddingRight", "WB_PaddingTop", "WB_PaddingBottom",
-    "WB_Corner", "WB_Gradient", "WB_AspectRatioConstraint", "WB_Stroke",
-    "WB_ListLayout", "WB_GridLayout"
+    "WB_ListLayout", "WB_GridLayout",
+    "WB_Corner", "WB_Gradient", "WB_AspectRatioConstraint", "WB_Stroke", "WB_Padding"
 }
 
 --> Constants
