@@ -3,6 +3,8 @@
     Developer: BlueWhaleYT (IGN: Whale0u0u)
 --]]
 
-local WhaleBlox = {}
+-- Status: Planned
 
-return WhaleBlox
+local module = {}
+
+return module
